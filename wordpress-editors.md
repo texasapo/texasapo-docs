@@ -35,4 +35,6 @@ This lets you do some fancy things, but it requires learning how Page Builder wo
 
 ## Thanks for reading!
 
-If you have any other questions/difficulties, feel free to send me a Facebook message. To confirm to me that you've read this document, send me message with your favorite Disney character. Thanks!
+If you have any other questions/difficulties, feel free to send me a Facebook message.
+
+**To confirm to me that you've read this document, send me message with your favorite Disney character. Thanks!**
