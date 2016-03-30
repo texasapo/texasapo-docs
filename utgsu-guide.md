@@ -13,6 +13,7 @@ This guide is for UTGSU staff to modify the website.
  * **Never delete an event (class)** once someone has registered for it. See **Deleting an Event or Class**.
  * **Never delete a user's booking or payment** as this may cause payments to go unaccounted for. See **Making Changes** for how to handle this case.
 
+
 ## Starting Up
 
 ### Creating a UTGSU Staff Account
@@ -43,8 +44,15 @@ At this point, the user will receive an email about their account creation, as w
  * On the right sidebar, under **Event Categories**, select the **level(s)** that the badge is under.
  * Click **Preview** to see a draft. When you're satisfied, click **Publish**. *Note that once you click **Publish**, registration is open for the course. If you want to wait, click *Save Draft* instead and publish it later.*
 
-## Closing Registration
+
+## Opening/Closing Registration
+
+### Opening Registration
+ * Once an event is published, registration for the class is technically open. You can avoid this by saving the event as a draft, instead of publishing it (see **Adding an Event**).
+
+### Closing Registration
  * You close registration by closing registration for each event. Do this by editing each event (see **Modifying an Event or Class**) and making the **Booking Cut-Off Date** some date/time in the past.
+
 
 ## Making Event or Class Changes
 
@@ -66,15 +74,16 @@ Note that, although a user may register multiple classes in a single transaction
 
 The instructions below assume a registration being a (possibly multi-seat) booking of a single class.
 
+
 ## Making Registration Changes
 
-#### Changing Attendee Names
+### Changing Attendee Names
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
  * Under **Booking Details**, click **Modify Booking**.
  * Change the applicable names.
  * Click **Submit Changes**.
 
-#### Manually Adding a Registration
+### Manually Adding a Registration
 *If you encounter an error through the steps below, you may need to temporarily adjust the **Booking Cut-Off Date** to some date/time in the future and/or add more spaces under **Modifying an Event or Class** make the change. If you adjust the **Booking Cut-Off Date**, be sure to adjust it back to prevent people from spuriously registering.*
  * Find the specified class under **Events** and click **Bookings**.
  * Click **Add Booking**.
@@ -89,7 +98,7 @@ The instructions below assume a registration being a (possibly multi-seat) booki
    * At this point, the registration will be in a **pending** state, until a UTGSU Staff user **confirms** their registration (see **Confirming a Payment**). You should inform the parent about the need to submit a check payment and that we'll confirm registration once received.
    * *Once you receive payment, be sure to follow **Confirming a Payment**.*
 
-#### Fully Cancelling a Registration
+### Fully Cancelling a Registration
 *Any applicable refunds will need to be manually handled (either from within PayPal or through a mailed check).*
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
  * Under **Booking Details**, next to **Status**, click **Change**.
@@ -97,7 +106,7 @@ The instructions below assume a registration being a (possibly multi-seat) booki
    * If we did not receive payment from them, change the status to **Rejected**.
  * Click **Submit Changes**.
 
-#### Partially Cancelling a Registration
+### Partially Cancelling a Registration
 *Any applicable refunds will need to be manually handled (either from within PayPal or through a mailed check).*
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
  * Under **Booking Details**, change the number of spaces to the number that remain. *You may need to shift the names around to ensure that they don't get removed.*
