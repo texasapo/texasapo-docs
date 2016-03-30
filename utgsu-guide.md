@@ -2,6 +2,9 @@
 
 This guide is for UTGSU staff to handle event registrations.
 
+This guide was created by Eric J Nguyen - Spring 2016 Webmaster. My contact email is: me[at][firstname][dash][lastname][dot]com.
+
+
 ## Prerequisites
 
  * A UTGSU Staff account (contact the Texas APO Webmaster) to get one. If you are the webmaster, instructions are below for creating a UTGSU Staff account.
@@ -32,6 +35,9 @@ At this point, the user will receive an email about their account creation, as w
  * Click **Edit User** at the top.
  * Under **Name** change the **Role** to **-- No role for this site --**.
  * When you're done, click **Update User** at the bottom.
+
+### How Do I Edit This Guide?
+ * This guide is written using GitHub Flavored Markdown. A good guide is [here](https://help.github.com/articles/about-writing-and-formatting-on-github/).
 
 ## Getting Started
 
