@@ -1,11 +1,11 @@
 # Girl Scout University Website User Guide
 
-This guide is for UTGSU staff to modify the website.
-
+This guide is for UTGSU staff to handle event registrations.
 
 ## Prerequisites
 
  * A UTGSU Staff account (contact the Texas APO Webmaster) to get one. If you are the webmaster, instructions are below for creating a UTGSU Staff account.
+ * Reading and understanding the entire **Warnings** section.
 
 
 ## Warnings
@@ -16,7 +16,7 @@ This guide is for UTGSU staff to modify the website.
  * You don't need to delete previous year's stuff, including old classes, registrations, etc. This system was designed to work for multiple years.
 
 
-## Starting Up
+## Setup
 
 ### Creating a UTGSU Staff Account
 You'll need to be logged in (probably as **admin**) to create an account.
@@ -26,6 +26,14 @@ You'll need to be logged in (probably as **admin**) to create an account.
  * Click **Add New User**.
 
 At this point, the user will receive an email about their account creation, as well as a link to set their password.
+
+
+## Getting Started
+
+### Setting the Event Date(s)
+Setting these dates affect pretty much everything else, including what events get included in print outputs.
+ * There is a special **Girl Scout University** module. Under **Event Date**, set the **Event Start Date** and **Event End Date**. If the event is a single day, set the **Event Start Date** and **Event End Date** to the same date.
+ * Click **Update Event Dates**.
 
 ### Adding a Category
  * Go to **Events** > **Event Categories**.
@@ -125,3 +133,29 @@ If you encounter an error through the steps below, you may need to temporarily a
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
  * Under **Booking Details**, change the number of spaces to the number that remain. *You may need to shift the names around to ensure that they don't get removed.*
  * Click **Submit Changes**.
+
+### Modifying User Details
+ * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
+ * Click **Edit User** at the top.
+ * Scroll all the way to **Additional Capabilities**. Here, you can edit their **Address**, **Contact Phone Number**, etc.
+ * When you're done, click **Update User**.
+
+
+## Preparing for Girl Scout University
+The big thing here is handling registrations that need attention. These will primarily be ones where we haven't received payment yet. Take care of these before printing anything out (see **Confirming Payments** or **Fully Cancelling a Registration**).
+
+### Printing Event Packets, Course Schedules, and a Master Attendee List
+ * There is a special **Girl Scout University** module. Under **Generate Event Printouts**, there is a separate button (or message) for each action.
+
+### Verifying Permission Forms
+ * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
+ * Under **Personal Details** next to **Permission Forms Verified**, click **Verify Permission Forms**.
+
+### Checking In Users
+ * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
+ * Under **Personal Details** next to **Checked In**, click **Check In User**.
+
+### Add User Comments
+ * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
+ * Under **Personal Details** next to **Comments**, add your comment.
+ * When you're done,  click **Update Comments**.
