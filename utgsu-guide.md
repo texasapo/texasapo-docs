@@ -110,7 +110,7 @@ If you encounter an error through the steps below, you may need to temporarily a
    * At this point, the registration will be in a **pending** state, until a UTGSU Staff user **confirms** their registration (see **Confirming a Payment**).
    * If the parent wishes to pay via PayPal, have them manually [send money](https://www.paypal.com/webapps/mpp/send-money-online) to the UTGSU PayPal account. *Unlike normal PayPal-based registrations, this registration will need to be manually confirmed.*
    * If the parent wishes to pay by check, inform the parent about their need to mail in a check and that we'll confirm registration once received.
-   * *Once you receive payment, be sure to see **Confirming Payments**.*
+   * Once you receive payment, be sure to see **Confirming Payments**.
 
 ### Fully Cancelling a Registration
 *Any applicable refunds will need to be manually handled (either from within PayPal or through a mailed check).*
