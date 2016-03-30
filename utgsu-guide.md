@@ -44,7 +44,7 @@ At this point, the user will receive an email about their account creation, as w
  * Under **Event Options** set the **Booking Cut-Off Date** to be the end of registration.
  * Under **Attributes** set **Instructor** to be the teacher for the class. *This can be left blank and changed later.*
  * On the right sidebar, under **Event Categories**, select the **level(s)** that the badge is under.
- * Click **Preview** to see a draft. When you're satisfied, click **Publish**. *Note that once you click***Publish***, registration is open for the course. If you want to wait, click ***Save Draft*** instead and publish it later.*
+ * Click **Preview** to see a draft. When you're satisfied, click **Publish**. Note that once you click **Publish**, registration is open for the course. If you want to wait, click **Save Draft** instead and publish it later.
 
 
 ## Opening/Closing Registration
@@ -64,7 +64,7 @@ At this point, the user will receive an email about their account creation, as w
  * Make the edits that you want. Click **Preview** to see a draft. When you're satisfied, click **Update**.
 
 ### Deleting an Event or Class
-*You should never delete a class once someone has registered for it, even if the event is in error. It is preferred, whenever possible, to simply change the event details to suit (see **Modifying an Event or Class**).*
+You should never delete a class once someone has registered for it, even if the event is in error. It is preferred, whenever possible, to simply change the event details to suit (see **Modifying an Event or Class**).
 
 *This also applies to an event or class from previous years. For these events, you can leave them as is. They'll be hidden from the backend and the user, for the most part.*
 
@@ -96,7 +96,7 @@ Note that PayPal payments from user-initiated registrations are automatically co
  * To add/drop classes, you'll need to perform the drop operation (see **Fully Cancelling a Registration** or **Partially Cancelling a Registration**), followed by the add operation (see **Manually Adding a Registration**).
 
 ### Manually Adding a Registration
-*If you encounter an error through the steps below, you may need to temporarily adjust the **Booking Cut-Off Date** to some date/time in the future and/or add more spaces under **Modifying an Event or Class** make the change. If you adjust the **Booking Cut-Off Date**, be sure to adjust it back to prevent people from spuriously registering.*
+If you encounter an error through the steps below, you may need to temporarily adjust the **Booking Cut-Off Date** to some date/time in the future and/or add more spaces under **Modifying an Event or Class** make the change. If you adjust the **Booking Cut-Off Date**, be sure to adjust it back to prevent people from spuriously registering.
  * Find the specified class under **Events** and click **Bookings**.
  * Click **Add Booking**.
  * Select the number of **spaces** and enter each attendee's **First Name** and **Last Name**.
