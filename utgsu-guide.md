@@ -27,6 +27,11 @@ You'll need to be logged in (probably as **admin**) to create an account.
 
 At this point, the user will receive an email about their account creation, as well as a link to set their password.
 
+### Deactivating a UTGSU Staff Account
+ * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
+ * Click **Edit User** at the top.
+ * Under **Name** change the **Role** to **-- No role for this site --**.
+ * When you're done, click **Update User** at the bottom.
 
 ## Getting Started
 
