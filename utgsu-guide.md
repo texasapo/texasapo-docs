@@ -44,7 +44,7 @@ At this point, the user will receive an email about their account creation, as w
  * Under **Event Options** set the **Booking Cut-Off Date** to be the end of registration.
  * Under **Attributes** set **Instructor** to be the teacher for the class. *This can be left blank and changed later.*
  * On the right sidebar, under **Event Categories**, select the **level(s)** that the badge is under.
- * Click **Preview** to see a draft. When you're satisfied, click **Publish**. *Note that once you click **Publish**, registration is open for the course. If you want to wait, click **Save Draft** instead and publish it later.*
+ * Click **Preview** to see a draft. When you're satisfied, click **Publish**. *Note that once you click* **Publish**, *registration is open for the course. If you want to wait, click *Save Draft* instead and publish it later.*
 
 
 ## Opening/Closing Registration
