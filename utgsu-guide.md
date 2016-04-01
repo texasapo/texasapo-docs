@@ -22,7 +22,7 @@ This guide was created by Eric J Nguyen - Spring 2016 Webmaster. My contact emai
 ## Setup
 
 ### Creating a UTGSU Staff Account
-You'll need to be logged in (probably as **admin**) to create an account.
+You'll need to be logged in (probably as **admin**) to create a UTGSU Staff Account.
  * Go to **Users** > **Add New**.
  * Fill in the **Username** and **Email** fields.
  * Under **Role**, select **UTGSU Staff**.
@@ -99,7 +99,7 @@ Note that, although a user may register multiple classes in a single transaction
 The instructions below assume a registration being a (possibly multi-seat) booking of a single event or class.
 
 ### Confirming Payments
-Note that PayPal payments from user-initiated registrations are automatically confirmed. No action needs to be taken by the UTGSU Staff to confirm these types of registrations registrations. The instructions below are for confirming offline (check) payments or for confirming bookings that are initiated by UTGSU Staff.
+Note that PayPal payments from user-initiated registrations are automatically confirmed. No action needs to be taken by the UTGSU Staff to confirm these types of registrations. The instructions below are for confirming offline (check) payments or for confirming bookings that are initiated by UTGSU Staff.
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
  * Under **Booking Details**, next to **Status**, click **Change**.
  * Change the **Status** to **Approved**.
