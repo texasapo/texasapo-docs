@@ -1,16 +1,58 @@
 # Girl Scout University Website User Guide
+Welcome! This guide is for UTGSU staff to handle event registrations.
 
-This guide is for UTGSU staff to handle event registrations.
+This document was originally written by Eric J Nguyen, Spring 2016 Webmaster, Cavendar Pledge Class (Spring 2015).
 
-This guide was created by Eric J Nguyen - Spring 2016 Webmaster. My contact email is: me[at][firstname][dash][lastname][dot]com.
+## Changes
 
+If this document is out of date, **please update it**. You should also add an entry to the changelog in this section, following the format.
 
+````
+2016-04-25: [Eric J Nguyen][me at eric-nguyen dot com] Added contents and changes sections.
+2016-03-30: [Eric J Nguyen][me at eric-nguyen dot com] Initial Version.
+````
+## Contents
+<!-- MarkdownTOC -->
+
+- [Prerequisites](#prerequisites)
+- [Warnings](#warnings)
+- [Setup](#setup)
+   - [Creating a UTGSU Staff Account](#creating-a-utgsu-staff-account)
+   - [Deactivating a UTGSU Staff Account](#deactivating-a-utgsu-staff-account)
+   - [How Do I Edit This Guide?](#how-do-i-edit-this-guide)
+- [Getting Started](#getting-started)
+   - [Setting the Event Date\(s\)](#setting-the-event-dates)
+   - [Adding a Category](#adding-a-category)
+   - [Adding an Event](#adding-an-event)
+- [Opening/Closing Registration](#openingclosing-registration)
+   - [Opening Registration](#opening-registration)
+   - [Closing Registration](#closing-registration)
+- [Making Event or Class Changes](#making-event-or-class-changes)
+   - [Modifying an Event or Class](#modifying-an-event-or-class)
+   - [Deleting an Event or Class](#deleting-an-event-or-class)
+- [Making Registration Changes](#making-registration-changes)
+   - [Confirming Payments](#confirming-payments)
+   - [Changing Attendee Names](#changing-attendee-names)
+   - [Adding and Dropping Classes](#adding-and-dropping-classes)
+   - [Manually Adding a Registration](#manually-adding-a-registration)
+   - [Fully Cancelling a Registration](#fully-cancelling-a-registration)
+   - [Partially Cancelling a Registration](#partially-cancelling-a-registration)
+   - [Modifying User Details](#modifying-user-details)
+- [Preparing for Girl Scout University](#preparing-for-girl-scout-university)
+   - [Printing Event Packets, Course Schedules, and a Master Attendee List](#printing-event-packets-course-schedules-and-a-master-attendee-list)
+   - [Verifying Permission Forms](#verifying-permission-forms)
+   - [Checking In Users](#checking-in-users)
+   - [Add User Comments](#add-user-comments)
+
+<!-- /MarkdownTOC -->
+<a name="prerequisites"></a>
 ## Prerequisites
 
  * A UTGSU Staff account (contact the Texas APO Webmaster) to get one. If you are the webmaster, instructions are below for creating a UTGSU Staff account.
  * Reading and understanding the entire **Warnings** section.
 
 
+<a name="warnings"></a>
 ## Warnings
 
  * **Never delete a user account** as this permenantly deletes a ton of information. Instead, deactivate/suspend the account if no longer needed under **Users**.
@@ -19,8 +61,10 @@ This guide was created by Eric J Nguyen - Spring 2016 Webmaster. My contact emai
  * You don't need to delete previous year's stuff, including old classes, registrations, etc. This system was designed to work for multiple years.
 
 
+<a name="setup"></a>
 ## Setup
 
+<a name="creating-a-utgsu-staff-account"></a>
 ### Creating a UTGSU Staff Account
 You'll need to be logged in (probably as **admin**) to create a UTGSU Staff Account.
  * Go to **Users** > **Add New**.
@@ -30,27 +74,33 @@ You'll need to be logged in (probably as **admin**) to create a UTGSU Staff Acco
 
 At this point, the user will receive an email about their account creation, as well as a link to set their password.
 
+<a name="deactivating-a-utgsu-staff-account"></a>
 ### Deactivating a UTGSU Staff Account
  * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
  * Click **Edit User** at the top.
  * Under **Name** change the **Role** to **-- No role for this site --**.
  * When you're done, click **Update User** at the bottom.
 
+<a name="how-do-i-edit-this-guide"></a>
 ### How Do I Edit This Guide?
  * This guide is written using GitHub Flavored Markdown. A good guide is [here](https://help.github.com/articles/about-writing-and-formatting-on-github/).
 
+<a name="getting-started"></a>
 ## Getting Started
 
+<a name="setting-the-event-dates"></a>
 ### Setting the Event Date(s)
 Setting these dates affect pretty much everything else, including what events get included in print outputs.
  * There is a special **Girl Scout University** module. Under **Event Date**, set the **Event Start Date** and **Event End Date**. If the event is a single day, set the **Event Start Date** and **Event End Date** to the same date.
  * Click **Update Event Dates**.
 
+<a name="adding-a-category"></a>
 ### Adding a Category
  * Go to **Events** > **Event Categories**.
  * Fill in: the **Name** and **Slug**
  * Click **Add New Event Category**.
 
+<a name="adding-an-event"></a>
 ### Adding an Event
  * Go to **Events** > **Add Event**.
  * Fill in:
@@ -66,22 +116,28 @@ Setting these dates affect pretty much everything else, including what events ge
  * Click **Preview** to see a draft. When you're satisfied, click **Publish**. Note that once you click **Publish**, registration is open for the course. If you want to wait, click **Save Draft** instead and publish it later.
 
 
+<a name="openingclosing-registration"></a>
 ## Opening/Closing Registration
 
+<a name="opening-registration"></a>
 ### Opening Registration
  * Once an event is published, registration for the class is technically open. You can avoid this by saving the event as a draft, instead of publishing it (see **Adding an Event**).
 
+<a name="closing-registration"></a>
 ### Closing Registration
  * You close registration by closing registration for each event. Do this by editing each event (see **Modifying an Event or Class**) and making the **Booking Cut-Off Date** some date/time in the past.
 
 
+<a name="making-event-or-class-changes"></a>
 ## Making Event or Class Changes
 
+<a name="modifying-an-event-or-class"></a>
 ### Modifying an Event or Class
  * Go to **Events** > **Events**.
  * Find the event and click **Edit** under it. *Note that only events in the future are shown.*
  * Make the edits that you want. Click **Preview** to see a draft. When you're satisfied, click **Update**.
 
+<a name="deleting-an-event-or-class"></a>
 ### Deleting an Event or Class
 You should never delete a class once someone has registered for it, even if the event is in error. It is preferred, whenever possible, to simply change the event details to suit (see **Modifying an Event or Class**).
 
@@ -93,11 +149,13 @@ If you still really want to delete an event or class:
  * On the right-hand side, under **Publish**, click **Move to Trash**.
 
 
+<a name="making-registration-changes"></a>
 ## Making Registration Changes
 Note that, although a user may register multiple classes in a single transaction, a separate registration is processed for each unique class that the user registers for, with possibly multiple people being registered for a class under a single registration.
 
 The instructions below assume a registration being a (possibly multi-seat) booking of a single event or class.
 
+<a name="confirming-payments"></a>
 ### Confirming Payments
 Note that PayPal payments from user-initiated registrations are automatically confirmed. No action needs to be taken by the UTGSU Staff to confirm these types of registrations. The instructions below are for confirming offline (check) payments or for confirming bookings that are initiated by UTGSU Staff.
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
@@ -105,15 +163,18 @@ Note that PayPal payments from user-initiated registrations are automatically co
  * Change the **Status** to **Approved**.
  * Click **Submit Changes**.
 
+<a name="changing-attendee-names"></a>
 ### Changing Attendee Names
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
  * Under **Booking Details**, click **Modify Booking**.
  * Change the applicable names.
  * Click **Submit Changes**.
 
+<a name="adding-and-dropping-classes"></a>
 ### Adding and Dropping Classes
  * To add/drop classes, you'll need to perform the drop operation (see **Fully Cancelling a Registration** or **Partially Cancelling a Registration**), followed by the add operation (see **Manually Adding a Registration**).
 
+<a name="manually-adding-a-registration"></a>
 ### Manually Adding a Registration
 If you encounter an error through the steps below, you may need to temporarily adjust the **Booking Cut-Off Date** to some date/time in the future and/or add more spaces under **Modifying an Event or Class** make the change. If you adjust the **Booking Cut-Off Date**, be sure to adjust it back to prevent people from spuriously registering.
  * Find the specified class under **Events** and click **Bookings**.
@@ -131,6 +192,7 @@ If you encounter an error through the steps below, you may need to temporarily a
    * If the parent wishes to pay by check, inform the parent about their need to mail in a check and that we'll confirm registration once received.
    * Once you receive payment, be sure to see **Confirming Payments**.
 
+<a name="fully-cancelling-a-registration"></a>
 ### Fully Cancelling a Registration
 *Any applicable refunds will need to be manually handled (either from within PayPal or through a mailed check).*
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
@@ -139,12 +201,14 @@ If you encounter an error through the steps below, you may need to temporarily a
    * If we did not receive payment from them, change the status to **Rejected**.
  * Click **Submit Changes**.
 
+<a name="partially-cancelling-a-registration"></a>
 ### Partially Cancelling a Registration
 *Any applicable refunds will need to be manually handled (either from within PayPal or through a mailed check).*
  * Find and **Edit/View** the associated **booking**. You should be on an **Edit Booking** page.
  * Under **Booking Details**, change the number of spaces to the number that remain. *You may need to shift the names around to ensure that they don't get removed.*
  * Click **Submit Changes**.
 
+<a name="modifying-user-details"></a>
 ### Modifying User Details
  * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
  * Click **Edit User** at the top.
@@ -152,20 +216,25 @@ If you encounter an error through the steps below, you may need to temporarily a
  * When you're done, click **Update User**.
 
 
+<a name="preparing-for-girl-scout-university"></a>
 ## Preparing for Girl Scout University
 The big thing here is handling registrations that need attention. These will primarily be ones where we haven't received payment yet. Take care of these before printing anything out (see **Confirming Payments** or **Fully Cancelling a Registration**).
 
+<a name="printing-event-packets-course-schedules-and-a-master-attendee-list"></a>
 ### Printing Event Packets, Course Schedules, and a Master Attendee List
  * There is a special **Girl Scout University** module. Under **Generate Event Printouts**, there is a separate button (or message) for each action.
 
+<a name="verifying-permission-forms"></a>
 ### Verifying Permission Forms
  * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
  * Under **Personal Details** next to **Permission Forms Verified**, click **Verify Permission Forms**.
 
+<a name="checking-in-users"></a>
 ### Checking In Users
  * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
  * Under **Personal Details** next to **Checked In**, click **Check In User**.
 
+<a name="add-user-comments"></a>
 ### Add User Comments
  * Find the associated user under **Users** > **All Users** and click on their **Bookings**.
  * Under **Personal Details** next to **Comments**, add your comment.
