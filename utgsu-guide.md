@@ -3,6 +3,8 @@ Welcome! This guide is for UTGSU staff to handle event registrations.
 
 This document was originally written by Eric J Nguyen, Spring 2016 Webmaster, Cavendar Pledge Class (Spring 2015).
 
+**Warning, this guide is public, so be don't put anything confidential in here.**
+
 ## Changes
 
 If this document is out of date, **please update it**. You should also add an entry to the changelog in this section, following the format.
