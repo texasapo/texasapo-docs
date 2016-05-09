@@ -58,7 +58,7 @@ If this document is out of date, **please update it**. You should also add an en
 ## Warnings
 
  * **Never delete a user account** as this permenantly deletes a ton of information. Instead, [deactivate/suspend the account if no longer needed](#deactivating-a-utgsu-staff-account).
- * **Never delete an event (class)** once someone has registered for it. See [Deleting an Event or Class](deleting-an-event-or-class).
+ * **Never delete an event (class)** once someone has registered for it. See [Deleting an Event or Class](#deleting-an-event-or-class).
  * **Never delete a user's booking or payment** as will cause bookings and payments to go unaccounted for. See [Making Registration Changes](#making-registration-changes) for how to handle this case.
  * You don't need to delete previous year's stuff, including old classes, registrations, etc. This system was designed to work for multiple years.
 
@@ -146,7 +146,7 @@ You should never delete a class once someone has registered for it, even if the 
 *This also applies to an event or class from previous years. For these events, you can leave them as is. They'll be hidden from the backend and the user, for the most part.*
 
 If you still really want to delete an event or class:
- * First, make sure that there are no confirmed or pending registrations remaining for this class (see [Fully Cancelling a Registration](fully-cancelling-a-registration)).
+ * First, make sure that there are no confirmed or pending registrations remaining for this class (see [Fully Cancelling a Registration](#fully-cancelling-a-registration)).
  * Find and **Edit** the event.
  * On the right-hand side, under **Publish**, click **Move to Trash**.
 
@@ -174,7 +174,7 @@ Note that PayPal payments from user-initiated registrations are automatically co
 
 <a name="adding-and-dropping-classes"></a>
 ### Adding and Dropping Classes
- * To add/drop classes, you'll need to perform the drop operation (see [Fully Cancelling a Registration](fully-cancelling-a-registration) or [Partially Cancelling a Registration](#partially-cancelling-a-registration)), followed by the add operation (see [Manually Adding a Registration](#manually-adding-a-registration)).
+ * To add/drop classes, you'll need to perform the drop operation (see [Fully Cancelling a Registration](#fully-cancelling-a-registration) or [Partially Cancelling a Registration](#partially-cancelling-a-registration)), followed by the add operation (see [Manually Adding a Registration](#manually-adding-a-registration)).
 
 <a name="manually-adding-a-registration"></a>
 ### Manually Adding a Registration
