@@ -224,7 +224,7 @@ If you encounter an error through the steps below, you may need to temporarily a
 
 <a name="preparing-for-girl-scout-university"></a>
 ## Preparing for Girl Scout University
-The big thing here is handling registrations that need attention. These will primarily be ones where we haven't received payment yet. Take care of these before printing anything out (see [Confirming Payments](#confirming-payments) or [Fully Cancelling a Registration](fully-cancelling-a-registration)).
+The big thing here is handling registrations that need attention. These will primarily be ones where we haven't received payment yet. Take care of these before printing anything out (see [Confirming Payments](#confirming-payments) or [Fully Cancelling a Registration](#fully-cancelling-a-registration)).
 
 <a name="printing-event-packets-course-schedules-and-a-master-attendee-list"></a>
 ### Printing Event Packets, Course Schedules, and a Master Attendee List
